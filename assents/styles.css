@@ -20,7 +20,7 @@ nav{
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 1em;
-    font-weight: bold;
+    
 }
 
 nav ul{
@@ -43,4 +43,5 @@ nav ul li a{
 
 nav ul li a:hover{
     background-color: #555;
+    font-weight: bold;
 }
